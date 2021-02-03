@@ -1,7 +1,7 @@
 body {
 	padding: 0;
 	margin: 0;
-	background-color: #a2cd9a;
+	background-color: #ffe5ea;
   font-family: sans-serif;
 }
 
@@ -31,7 +31,7 @@ body {
 	padding: 14px 10px;
 	width: 200px;
 	outline: none;
-	color: #a2cd9a;
+	color: #ffe5ea;
 }
 
 .caja input[type = "submit"] {
@@ -43,10 +43,10 @@ body {
 	border: 2px solid #111;
 	padding: 14px 40px;
 	outline: none;
-	color: #a2cd9a;
+	color: #ffe5ea;
 	cursor: pointer;
 }
 
 .caja input[type = "submit"]:hover {
-	background: #a2cd9a;
+	background: #ffe5ea;
 }
