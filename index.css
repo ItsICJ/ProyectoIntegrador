@@ -33,7 +33,7 @@ body {
 
 
 .mouse:hover{
-	color: limeyellow;
+	color: limebrown;
 	cursor: pointer;
 }
 
@@ -43,7 +43,7 @@ body {
 
 
 .mouse:hover a{
-	color: limeyellow;
+	color: limebrown;
 }
 a:link, a:visited {
 	color: white;
