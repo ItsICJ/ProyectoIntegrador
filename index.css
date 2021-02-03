@@ -1,18 +1,18 @@
 body {
 	padding: 0;
 	margin: 0;
-	background-color: #666;
+	background-color: #a2cd9a;
 	font-family: sans-serif;
 
 }
 
-.top-menu {
+.menu-principal {
 	display: flex;
 	background-color: #111;
 	width: 100%;
 	height: 70px;
 	font-weight: 10px;
-	color: #F5F5F5;
+	color: #937d5d;
 	text-align: center;
 	position: absolute;
 }
@@ -30,12 +30,10 @@ body {
 	margin: 5px;
 	display: inline-block;
 }
-#vacio {
-	background-color: none;
-}
+
 
 .mouse:hover{
-	color: limegreen;
+	color: limeyellow;
 	cursor: pointer;
 }
 
@@ -45,7 +43,7 @@ body {
 
 
 .mouse:hover a{
-	color: limegreen;
+	color: limeyellow;
 }
 a:link, a:visited {
 	color: white;
