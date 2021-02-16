@@ -1,8 +1,14 @@
 body {
 	padding: 0;
 	margin: 0;
+<<<<<<< Updated upstream
 	background-color: #ffe5ea;
   font-family: sans-serif;
+=======
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	background: #f2f2f2; 
+>>>>>>> Stashed changes
 }
 
 .caja {
@@ -12,26 +18,31 @@ body {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	background-color: #937d5d;
+	background-color: #f2e2e2;
 	text-align: center;
+	border:5px solid gray;
 }
 .caja h1 {
-	color: white;
+	color: black;
 	text-transform: uppercase;
 	font-weight: 500;
 }
 
 .caja input[type = "text"], .caja input[type = "password"] {
 	border:0;
-	background:none;
+	background:white;
 	display: block;
 	margin: 20px auto;
 	text-align: center;
-	border: 2px solid #111;
+	border: 2px solid gray;
 	padding: 14px 10px;
 	width: 200px;
 	outline: none;
+<<<<<<< Updated upstream
 	color: #ffe5ea;
+=======
+
+>>>>>>> Stashed changes
 }
 
 .caja input[type = "submit"] {
@@ -40,13 +51,20 @@ body {
 	display: block;
 	margin: 20px auto;
 	text-align: center;
-	border: 2px solid #111;
+	border: 2px solid gray;
 	padding: 14px 40px;
 	outline: none;
+<<<<<<< Updated upstream
 	color: #ffe5ea;
+=======
+>>>>>>> Stashed changes
 	cursor: pointer;
 }
 
 .caja input[type = "submit"]:hover {
+<<<<<<< Updated upstream
 	background: #ffe5ea;
+=======
+	background: #f2f2f2;
+>>>>>>> Stashed changes
 }
